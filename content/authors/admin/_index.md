@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonprofit management & philanthropy
+- Inequality and resource gap
+- Community leadership and public engagement
+- Computational and social media analysis
 
 education:
   courses:
@@ -78,7 +79,6 @@ First, my research is Community-oriented. I look at both online and offline comm
 
 Second, my research is Commons-focused. I study the bottom-up "self-governing" phenomenon in which people come together for common good or to some extent address local and public problems. I look at the roles and the ways in which philanthropy, nonprofits and grassroots groups strategize, mobilize and address or promote inequality given the unequal resources and power in the first place.
 
-Third, my research is Connective. I look at how the nonprofit sector and grassroots groups engage with local communities, lead across sectors, and build networks for actions.
-
+Third, my research is Connective-driven. I look at how the nonprofit sector and grassroots groups make meaningful connections through engaging with local communities, leading across sectors, and building networks for connective actions.
 
 In summary, my research combines mixed methods and computational approaches to examine the roles and capacities of nonprofit, philanthropic and grassroots organizations to lead across sectors, mobilize resources, and engage the public on social media to advance public problem solving.
